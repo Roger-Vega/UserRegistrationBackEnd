@@ -1,4 +1,4 @@
-package com.roger.contactos;
+package com.roger.users;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
